@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://devwujot:invisible@contactkeeper-geuba.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
