@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://devwujot:invisible@contactkeeper-geuba.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://{'your_username'}:{'your_password'}@contactkeeper-geuba.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret": "secret"
 }
